@@ -2,12 +2,12 @@
 ## Nicholas Livingstone CS471 Spring 2020
 ## Friday October 2nd, 2020
 
-- The homework report is in the directory HW3/Report and is called *hw3 report.pdf*
+- The homework report is in the directory /Report and is called *hw3 report.pdf*
 - The code for this homework is located in
-  HW3/Code and is documented in the appendix
+  /Code and is documented in the appendix
   of the report.
-- Data produced in the prgram is exported to *HW3/data/*
-- Figures generated that are found in the report can be found under *HW3/figures*
+- Data produced in the prgram is exported to */data/*
+- Figures generated that are found in the report can be found under */figures*
 - Figures in the report were generated using a python script and the library matplotlib.
   The script was run using the Anaconda Distr. of Python 3.7.4
 - To reproduce data in the report
